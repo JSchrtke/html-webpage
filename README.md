@@ -1,3 +1,3 @@
-# Basic Webpage
+# Simple Webpage
 
-A basic html webpage following the [udemy web development bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
+A simple html webpage following the [udemy web development bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
